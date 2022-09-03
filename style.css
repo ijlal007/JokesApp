@@ -18,16 +18,16 @@ body {
 }
 
 .container {
-  background-color: aliceblue;
+  background-color: lightblue;
   border-radius: 10px;
-  -webkit-border-radius: 1;
-  -moz-border-radius: 1;
-  -ms-border-radius: 1;
-  -o-border-radius: 1;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
   box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.1), 0 6px 6px 0 rgba(0, 0, 0, 0.1);
   padding: 50px 20px;
   text-align: center;
-  max-width: 100px;
+  max-width: 100%;
   width: 800px;
 }
 
